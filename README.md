@@ -1,0 +1,2 @@
+# aplikasigeneric
+sentimen analysis
